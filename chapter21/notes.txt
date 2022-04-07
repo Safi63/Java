@@ -1,0 +1,14 @@
+Java Chapter 21 
+Array is fixed ...some time it cause wastage of memory
+linked list is resize able ...
+
+Tree Structure:
+it has a root node . tree nodes contain two links  : left child right child
+
+if a node don't have a child tree...it called leaf node
+
+All values of left subtree less than parent tree
+All values of right subtree graterthan parent tree
+
+Recorsive function: these function are call itself : it has to terms  1:Terminative clause  when he stop calling     2: 
+Real strength of  Tree Structure is getting required value with less search 

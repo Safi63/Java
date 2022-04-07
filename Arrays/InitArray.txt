@@ -1,0 +1,2 @@
+//fig.7.17: InitArray.java
+Initializing two dimensional arrays.
